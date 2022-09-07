@@ -1,10 +1,5 @@
 # 基于JFinal的个人博客管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**博客8** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -58,11 +53,5 @@
 
 ![后端-网站设置](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208021023776.jpg)
 
-## 5、获取方式
 
-扫描下方，回复关键词  ：**博客8** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
